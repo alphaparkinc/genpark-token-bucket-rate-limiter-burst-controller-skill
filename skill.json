@@ -1,0 +1,20 @@
+{
+  "name": "genpark-token-bucket-rate-limiter-burst-controller-skill",
+  "version": "1.0.0",
+  "description": "High-precision token bucket rate limiter with burst capability for LLM token quotas and TPM enforcement",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "rate-limiter",
+    "token-bucket",
+    "burst-controller",
+    "traffic-shaping",
+    "quota-management",
+    "python-standard-library",
+    "agent-skills",
+    "api-rate-limit",
+    "resilience",
+    "developer-tools"
+  ]
+}
