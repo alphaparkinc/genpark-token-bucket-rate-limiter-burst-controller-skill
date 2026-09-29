@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-token-bucket-rate-limiter-burst-controller-skill"
+version = "1.0.0"
+description = "High-precision token bucket rate limiter with burst capability for LLM token quotas and TPM enforcement"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
